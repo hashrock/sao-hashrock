@@ -12,12 +12,6 @@ yarn global add sao
 npm i -g sao
 ```
 
-### From npm
-
-```bash
-sao hashrock my-project
-```
-
 ### From git
 
 ```bash
